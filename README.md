@@ -1,4 +1,4 @@
-## Login-Registration Backend
+# Login-Registration Backend
 
 ### Overview
 This project provides a robust backend for handling user authentication and registration processes. It includes features such as email verification with expiry, secure password handling, and integration with PostgreSQL for data storage.
